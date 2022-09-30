@@ -81,7 +81,7 @@ generate_messages(
 
 catkin_package(
   INCLUDE_DIRS include
-  CATKIN_DEPENDS actionlib dynamixel_workbench_toolbox interbotix_descriptions message_runtime roscpp sensor_msgs std_msgs std_srvs trajectory_msgs urdf yaml-cpp
+  CATKIN_DEPENDS actionlib dynamixel_workbench_toolbox interbotix_descriptions message_runtime roscpp sensor_msgs std_msgs std_srvs trajectory_msgs urdf
 )
 
 ###########
